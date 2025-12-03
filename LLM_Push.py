@@ -2,7 +2,6 @@
 import subprocess
 import os
 
-# === ВАРИАНТ 1: Создать НОВУЮ МАЛУЮ модель с УЛЬТРА-РАСШИРЕННОЙ трейдерской личностью ===
 def create_and_push_small():
     model_name = "orf_________1b"
 
@@ -55,4 +54,5 @@ if __name__ == "__main__":
         copy_and_push_small()
     else:
         print("Invalid choice.")
+
 
