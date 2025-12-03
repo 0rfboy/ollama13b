@@ -4,6 +4,6 @@ system """
 
 """
 
-parameter temperature 0.2
+parameter temperature 0.5
 parameter top_p 0.9
 parameter num_ctx 16384
